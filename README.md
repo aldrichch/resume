@@ -7,11 +7,17 @@ I am a research assistant and financial data analyst.
 • Universitas Brawijaya, B.B.A., Marketing.
 
 ## Publication
-1. Liaw, Y. C., Surya, A. A. A. G. L., Chen, R., & Unpapar, A. A. (2026). Environmental, social, and governance performance and corporate dividend strategies: Global evidence and managerial insights. Global Finance Journal, 101303. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1044028326000712#abstracts)
-2. Liaw, Y. C., Truong, Q. T., Chen, R., & Unpapar, A. A. (2026). Unpacking Corporate Slack: How Excess Resources Shape Earnings Management. BRQ Business Research Quarterly, 29, 23409444261416938. [Link](https://journals.sagepub.com/doi/10.1177/23409444261416938)
-3. Truong, Q. T., Tran, Q. N., Unpapar, A. A., & Chen, R. (2026). Repay a Favor? Evidence from Co-opted Boards and Corporate Risk-Taking. Journal of Economics and Finance, 50(1), 11. [Link](https://link.springer.com/article/10.1007/s12197-025-09740-y)
+1. Liaw, Y. C., Surya, A. A. A. G. L., Chen, R., & Unpapar, A. A. (2026). Environmental, social, and governance performance and corporate dividend strategies: Global evidence and managerial insights. _Global Finance Journal_, 101303. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1044028326000712#abstracts)
+2. Liaw, Y. C., Truong, Q. T., Chen, R., & Unpapar, A. A. (2026). Unpacking Corporate Slack: How Excess Resources Shape Earnings Management. _BRQ Business Research Quarterly_, 29, 23409444261416938. [Link](https://journals.sagepub.com/doi/10.1177/23409444261416938)
+3. Truong, Q. T., Tran, Q. N., Unpapar, A. A., & Chen, R. (2026). Repay a Favor? Evidence from Co-opted Boards and Corporate Risk-Taking. _Journal of Economics and Finance_, 50(1), 11. [Link](https://link.springer.com/article/10.1007/s12197-025-09740-y)
 
 ## Experience
+**Research Assistant at Ming Chi University of Technology (_Sep 2024 - Present_)**
+
+• Research on firms’ ESG scores, including but not limited to sustainable finance, risk management, corporate governance, and strategic management
+
+• Performing statistical data analysis (STATA, Python, and R) and academic writing
+
 **Data Analyst at Rabbit Hole (_Apr 2024 - Sep 2024_)**
 
 •	Implemented the first company database by creating a user-friendly internal front-end interface for live data reporting (HTML, Google Apps Script, Excel, and GitHub).
@@ -34,23 +40,11 @@ I am a research assistant and financial data analyst.
 
 **Data Entry at Indonesian Economic and Trade Office to Taipei**
 
-• Inputted 50.000+ data entries from Excel to the website, meticulously ensuring accuracy and consistency. Smoothly added this carefully selected dataset to a website, making it easier for users to access and use.
-  
 **Market Research Intern at Ikigai Consulting**
 
-•	Accomplished competitors’ strategies and customers' existing journeys research, raised Ikigai Consulting performance through 4 customer interviews.
-
-•	Mapped out a network of 300+ potential partner companies and initiated contact to promote products and services.
-
 **Research Assistant at Universitas Brawijaya**
-
-•	Involved in 4 marketing projects, published undergraduate-level journal articles, and analyzed data with SPSS. I also contributed as a discussant and speaker in undergraduate thesis exams for marketing topics.
   
 **Surveyor Assistant Intern at PT. SUCOFINDO (PERSERO) Indonesia**
-
-• Arranged and calculated the laboratory results of the exporter products into the certificates of analysis.
-
-• Managed surveyor’s export-import certificates, certificate of analysis and sampling, certificate of origin, L/C bank, and draught survey.
 
 ## Data Analysis Tools
 Python, R, STATA, and SPSS.
@@ -82,20 +76,3 @@ Techniques: EDA, SARIMAX, Elbow analysis (distortion), silhouette score, random 
 **Indonesia Associate Data Scientist Certification (2023)**
 
 [Certificate](https://drive.google.com/file/d/1UmT4iBVIiMXRLah_r84XoH9PIKpRAMPp/view?usp=drive_link)
-
-**Data Science Math Skills (Course)** 
-
-[Certificate](https://www.coursera.org/account/accomplishments/verify/CEVB5DUEQ43V)
-
-**Fundamentals of Quantitative Modelling (Course)**
-
-[Certificate](https://www.coursera.org/account/accomplishments/verify/B7S6499BHFAL)
-
-## Recent Extracurricular
-**Top 7 “Study in Taiwan” Adventure Video Contest (Special Prices)**
-[Link](https://www.studyintaiwan.org/news/content/132)
-
-**Member of Environment Preservation**
-[Link](https://drive.google.com/file/d/1iPrU_fh2IcWpLTAzGHGFgVd2quHE-aJC/view?usp=drive_link)
-
-
