@@ -2,9 +2,9 @@
 I’ve been working as a research assistant for more than 3 years. The research interests include: Sustainable finance with a focus on ESG & risk and empirical corporate finance and governance using econometrics & machine learning approaches
 
 ## Education
-• National Taipei University, M.B.A., Finance.
+• National Taipei University, M.B.A., Finance, GPA: 3.60/4.00
 
-• Universitas Brawijaya, B.B.A., Marketing.
+• Universitas Brawijaya, B.B.A., Marketing, GPA: 3.06/4.00
 
 ## Publication
 1. Liaw, Y. C., Surya, A. A. A. G. L., Chen, R., & Unpapar, A. A. (2026). Environmental, social, and governance performance and corporate dividend strategies: Global evidence and managerial insights. _Global Finance Journal_, 101303. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1044028326000712#abstracts)
@@ -32,7 +32,7 @@ I’ve been working as a research assistant for more than 3 years. The research 
 
 •	Designed Python scripts to scrape over 1,000,000 rows of complex, binary-encoded weather, sunrise, and sunset data with 100% accuracy.
 
-•	Helped other students in work on ESG datasets by conducting data cleaning and regression. Performed data and quantitative analysis, and reconstructed data into panel or longitudinal formats to uncover insights.
+•	Helped other students with work on ESG datasets by conducting data cleaning and regression. Performed data and quantitative analysis, and reconstructed data into panel or longitudinal formats to uncover insights.
 
 **Junior Data Scientist Intern at Telkom Indonesia (_Sep 2023 - Oct 2023_)**
 
@@ -49,26 +49,10 @@ I’ve been working as a research assistant for more than 3 years. The research 
 **Surveyor Assistant Intern at PT. SUCOFINDO (PERSERO) Indonesia**
 
 ## Data Analysis Tools
-Python, R, STATA, and SPSS.
+Python programming language, R, and STATA.
 
 ## Other Digital Skills
-MySQL, HTML, Looker Studio, Google Apps Script, SAP, and Microsoft Office.
-  
-## Recent Projects with Python
-### Customer Services Time Analytics
-[Google Colab Notebook](https://colab.research.google.com/drive/1zKrhto0OM6V56agUULaT05reMobv4PNe)
-
-Techniques: EDA, Time to Resolution (TTR), frequency and severity, SARIMAX, and exponential smoothing.
-
-### Financial Time Series Analysis
-[Google Colab Notebook](https://colab.research.google.com/drive/1jy0mchSVVmY2UP39ANjDsp9RMPsLIMjE#scrollTo=eTtrlJCeBDs7)
-
-Techniques: EDA, Dickey-Fuller test, time shift differencing, log, ACF-PACF, ARIMA, and SARIMAX.
-
-### Predicting Hotel Booking Cancelation
-[Google Colab Notebook](https://colab.research.google.com/drive/153X3CiPITSeNiuM_nAkVw7uH0M-FggRh#scrollTo=5eFaeCTp5wy2)
-
-Techniques: EDA, SARIMAX, Elbow analysis (distortion), silhouette score, random forest classifier, and ROC-AUC.
+MySQL, HTML language, Looker Studio, Google Apps Script, SAP, and Microsoft Office.
 
 ## Recent Certificates & Awards
 **Best paper awards, 2024 international conference on business administration (ICBA)**
@@ -83,7 +67,23 @@ Techniques: EDA, SARIMAX, Elbow analysis (distortion), silhouette score, random 
 
 **MBA full-funded scholarship (2022)**
 
-## Volunteering
+## Volunteer
 **Reviewer volunteer at the 2026 academy of management (AOM) meeting (6 manuscripts)**
 
 **Person in charge of the sustainability project and webinar**
+
+## Recent Projects with Python
+### Customer service time analytics
+[Google Colab Notebook](https://colab.research.google.com/drive/1zKrhto0OM6V56agUULaT05reMobv4PNe)
+
+Techniques: EDA, Time to Resolution (TTR), frequency and severity, SARIMAX, and exponential smoothing.
+
+### Financial time series analysis
+[Google Colab Notebook](https://colab.research.google.com/drive/1jy0mchSVVmY2UP39ANjDsp9RMPsLIMjE#scrollTo=eTtrlJCeBDs7)
+
+Techniques: EDA, Dickey-Fuller test, time shift differencing, log, ACF-PACF, ARIMA, and SARIMAX.
+
+### Predicting hotel booking cancellation
+[Google Colab Notebook](https://colab.research.google.com/drive/153X3CiPITSeNiuM_nAkVw7uH0M-FggRh#scrollTo=5eFaeCTp5wy2)
+
+Techniques: EDA, SARIMAX, Elbow analysis (distortion), silhouette score, random forest classifier, and ROC-AUC.
