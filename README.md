@@ -63,9 +63,9 @@ MySQL, HTML language, Looker Studio, Google Apps Script, SAP, and Microsoft Offi
 
 [Certificate](https://drive.google.com/file/d/1UmT4iBVIiMXRLah_r84XoH9PIKpRAMPp/view?usp=drive_link)
 
-**Fully-funded data science academy scholarship (2023)**
+**Data science fully-funded scholarship (2023)**
 
-**MBA full-funded scholarship (2022)**
+**MBA fully-funded scholarship (2022)**
 
 ## Volunteer
 **Reviewer volunteer at the 2026 academy of management (AOM) meeting (6 manuscripts)**
