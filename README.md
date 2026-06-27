@@ -3,12 +3,13 @@ I am a research assistant and financial data analyst.
 
 ## Education
 • National Taipei University, M.B.A., Finance.
+
 • Universitas Brawijaya, B.B.A., Marketing.
 
 ## Publication
-1. Environmental, social, and governance performance and corporate dividend strategies: Global evidence and managerial insights. [Link](https://journal.formosapublisher.org/index.php/ijba/article/view/6)
-2. Unpapar, A. A. (2021). The Moderating Role of Electronic Word of Mouth (eWOM) in the Influence of Perceived Value on Repurchase Intention. Indonesian Journal of Business Analytics, 1(1), 71-90. [Link](https://journal.formosapublisher.org/index.php/ijba/article/view/6)
-3. Andreas, Y. F., & Unpapar, A. A. (2021). The Influence of Service Quality and Product Taste on Product Repurchase Intention (Survey on Customers of UB Coffee Malang). Jurnal Indonesia Sosial Sains, 2(10), 467648. [Link](https://jiss.publikasiindonesia.id/index.php/jiss/article/view/440)
+1. Liaw, Y. C., Surya, A. A. A. G. L., Chen, R., & Unpapar, A. A. (2026). Environmental, social, and governance performance and corporate dividend strategies: Global evidence and managerial insights. Global Finance Journal, 101303. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1044028326000712#abstracts)
+2. Liaw, Y. C., Truong, Q. T., Chen, R., & Unpapar, A. A. (2026). Unpacking Corporate Slack: How Excess Resources Shape Earnings Management. BRQ Business Research Quarterly, 29, 23409444261416938. [Link](https://journals.sagepub.com/doi/10.1177/23409444261416938)
+3. Truong, Q. T., Tran, Q. N., Unpapar, A. A., & Chen, R. (2026). Repay a Favor? Evidence from Co-opted Boards and Corporate Risk-Taking. Journal of Economics and Finance, 50(1), 11. [Link](https://link.springer.com/article/10.1007/s12197-025-09740-y)
 
 ## Experience
 **Data Analyst at Rabbit Hole (_Apr 2024 - Sep 2024_)**
