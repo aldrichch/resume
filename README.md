@@ -1,17 +1,17 @@
 ## About me
-I'm a financial data analyst with educational backgrounds in business administration.
+I am a research assistant and financial data analyst.
 
 ## Education
 • National Taipei University, M.B.A., Finance.
-
-Elective Modules: Computer Programming, Python for Finance, Financial Econometrics, Artificial Intelligence in Finance and Quantitative Analysis, Time Series Analysis, and Information Systems.
-
 • Universitas Brawijaya, B.B.A., Marketing.
 
-Modules: Business Statistics, Business Analysis, and Applied Business Mathematics.
+## Publication
+1. Environmental, social, and governance performance and corporate dividend strategies: Global evidence and managerial insights. [Link](https://journal.formosapublisher.org/index.php/ijba/article/view/6)
+2. Unpapar, A. A. (2021). The Moderating Role of Electronic Word of Mouth (eWOM) in the Influence of Perceived Value on Repurchase Intention. Indonesian Journal of Business Analytics, 1(1), 71-90. [Link](https://journal.formosapublisher.org/index.php/ijba/article/view/6)
+3. Andreas, Y. F., & Unpapar, A. A. (2021). The Influence of Service Quality and Product Taste on Product Repurchase Intention (Survey on Customers of UB Coffee Malang). Jurnal Indonesia Sosial Sains, 2(10), 467648. [Link](https://jiss.publikasiindonesia.id/index.php/jiss/article/view/440)
 
 ## Experience
-**Data Analyst at Rabbit Hole (_Apr 2024 - Present_)**
+**Data Analyst at Rabbit Hole (_Apr 2024 - Sep 2024_)**
 
 •	Implemented the first company database by creating a user-friendly internal front-end interface for live data reporting (HTML, Google Apps Script, Excel, and GitHub).
 
@@ -97,7 +97,4 @@ Techniques: EDA, SARIMAX, Elbow analysis (distortion), silhouette score, random 
 **Member of Environment Preservation**
 [Link](https://drive.google.com/file/d/1iPrU_fh2IcWpLTAzGHGFgVd2quHE-aJC/view?usp=drive_link)
 
-## Research
-1. Co-opted Boards and Corporate Risk-Taking [Link](https://drive.google.com/file/d/1kB6K7prQCoBZNmrTsGvprfCH0scH-Oon/view?usp=drive_link)
-2. Unpapar, A. A. (2021). The Moderating Role of Electronic Word of Mouth (eWOM) in the Influence of Perceived Value on Repurchase Intention. Indonesian Journal of Business Analytics, 1(1), 71-90. [Link](https://journal.formosapublisher.org/index.php/ijba/article/view/6)
-3. Andreas, Y. F., & Unpapar, A. A. (2021). The Influence of Service Quality and Product Taste on Product Repurchase Intention (Survey on Customers of UB Coffee Malang). Jurnal Indonesia Sosial Sains, 2(10), 467648. [Link](https://jiss.publikasiindonesia.id/index.php/jiss/article/view/440)
+
